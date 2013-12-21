@@ -1,0 +1,73 @@
+@font-face {
+	font-family: 'whatthefuck';
+	src:url('fonts/whatthefuck.eot');
+	src:url('fonts/whatthefuck.eot?#iefix') format('embedded-opentype'),
+		url('fonts/whatthefuck.ttf') format('truetype'),
+		url('fonts/whatthefuck.woff') format('woff'),
+		url('fonts/whatthefuck.svg#whatthefuck') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'whatthefuck';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zzz:before {
+	content: "\7a";
+}
+.icon-typ:before {
+	content: "\74";
+}
+.icon-phoneHappy:before {
+	content: "\70";
+}
+.icon-mugbot:before {
+	content: "\6d";
+}
+.icon-phoneTeam:before {
+	content: "\50";
+}
+.icon-phoneNormal:before {
+	content: "\71";
+}
+.icon-muesli:before {
+	content: "\4d";
+}
+.icon-mrBusinessBoard2:before {
+	content: "\62";
+}
+.icon-mrBusinessBoard1:before {
+	content: "\42";
+}
+.icon-mrBusiness:before {
+	content: "\77";
+}
+.icon-guentherEinspunktnull:before {
+	content: "\67";
+}
+.icon-guenther:before {
+	content: "\47";
+}
+.icon-catBoard2:before {
+	content: "\63";
+}
+.icon-catBoard1:before {
+	content: "\43";
+}
+.icon-cat:before {
+	content: "\65";
+}
+.icon-androduino:before {
+	content: "\61";
+}
