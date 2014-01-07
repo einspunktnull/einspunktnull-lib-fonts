@@ -1,48 +1,51 @@
 .icon-zzz {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x7a;');
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;');
 }
 .icon-typ {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x74;');
-}
-.icon-phoneHappy {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;');
-}
-.icon-mugbot {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6d;');
-}
-.icon-phoneTeam {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x50;');
-}
-.icon-phoneNormal {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x71;');
-}
-.icon-muesli {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x4d;');
-}
-.icon-mrBusinessBoard2 {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x62;');
 }
-.icon-mrBusinessBoard1 {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x42;');
-}
-.icon-mrBusiness {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x77;');
-}
-.icon-guentherEinspunktnull {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x67;');
-}
-.icon-guenther {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x47;');
-}
-.icon-catBoard2 {
+.icon-phoneTeam {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x63;');
 }
-.icon-catBoard1 {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x43;');
+.icon-phoneNormal {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x64;');
 }
-.icon-cat {
+.icon-phoneHappy {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x65;');
 }
+.icon-muesli {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x66;');
+}
+.icon-mrBusinessR {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x67;');
+}
+.icon-mrBusinessL {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x68;');
+}
+.icon-mrBusinessBoard2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x69;');
+}
+.icon-mrBusinessBoard1 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6a;');
+}
+.icon-mrBusiness {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6b;');
+}
+.icon-guentherEinspunktnull {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6c;');
+}
+.icon-guenther {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6d;');
+}
+.icon-catBoard2 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6e;');
+}
+.icon-catBoard1 {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x6f;');
+}
+.icon-cat {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x70;');
+}
 .icon-androduino {
-	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x61;');
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x71;');
 }
